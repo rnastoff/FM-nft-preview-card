@@ -1,0 +1,9 @@
+.card {
+  background: hsl(216, 50%, 16%);
+  border-radius: 1rem;
+  box-sizing: border-box;
+  height: 37.4rem;
+  width: 22em;
+  padding: 1.5rem;
+  overflow: hidden;
+}
